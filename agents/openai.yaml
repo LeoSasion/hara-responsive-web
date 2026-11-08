@@ -1,0 +1,13 @@
+interface:
+  display_name: 原研哉式跨端网页
+  short_description: 统一桌面与手机网页设计：克制留白、响应式布局、可访问交互与真实验收
+  default_prompt: 使用 $hara-responsive-web 为我的项目设计并实现兼容电脑与手机的响应式网页，保留既有功能并完成可执行的验收。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
